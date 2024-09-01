@@ -3,7 +3,9 @@ Fortigate config
 
 ## Commande Line
 FortiGate-VM64-KVM # config system interface
-FortiGate-VM64-KVM (interface) # edit port1 
+
+FortiGate-VM64-KVM (interface) # edit port1
+
 FortiGate-VM64-KVM (port1) # set mode static
 FortiGate-VM64-KVM (port1) # set ip 192.168.122.209 255.255.255.0
 FortiGate-VM64-KVM (port1) # set allowaccess ping https ssh telnet http 
