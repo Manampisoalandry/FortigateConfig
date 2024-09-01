@@ -25,6 +25,9 @@ FortiGate-VM64-KVM (ntp) # end
 FortiGate-VM64-KVM # execute reboot 
 
 This operation will reboot the system !
-
 Do you want to continue? (y/n)
+
+## Voir la liste des interfaces
+FortiGate-VM64-KVM # show system interface ?
+
 # Merci Beaucoup!
